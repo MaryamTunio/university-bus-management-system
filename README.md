@@ -1,4 +1,4 @@
-# university-bus-management-system
+
 # University Bus & Point System (UBMS)
 
 An offline-first Windows desktop application built for university transport offices to manage student bus/point enrollments, routes and ordered stops, vehicles, drivers, academic periods, transport fee plans, payments and printable receipts, daily boarding attendance, operational/financial reports, audit trails, and verified database backups.
